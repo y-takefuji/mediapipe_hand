@@ -46,7 +46,7 @@ $ python fingerv0.py
 
 1.Build a stone-paper-scissors or rock-paper-scissors detection system (Janken recognition).
 
-1.1 recognized hand shape string name (stone, paper or scssors) should be displayed.
+1.1 recognized hand shape string name (stone, paper or scissors) should be displayed.
 
 $ python fingerv2.py
 
