@@ -123,4 +123,6 @@ Gestures                                saved results
 
 <img src='take.gif' width=320 height=180> <img src='take.png' width=320 height=180>
 
+<img src='vsw.gif' width=480 height=360>
+
 
