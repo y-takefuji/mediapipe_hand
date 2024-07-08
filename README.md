@@ -80,7 +80,7 @@ $ python fingerpic.py
 
 Hint is given below demos.
 
-4.Use firmata library to turn LED on and off with one of finger position.
+4.Use firmata library to turn LED on and off with conditions such as one of finger position.
 
 
 # How to overlay two images using cv2
