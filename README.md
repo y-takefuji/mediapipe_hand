@@ -82,6 +82,7 @@ Hint is given below demos.
 
 4.Use firmata library to turn LED on and off with conditions such as one of finger position.
 
+<img src='vsw.gif' width=240 height=180>
 
 # How to overlay two images using cv2
 <pre>
@@ -123,6 +124,6 @@ Gestures                                saved results
 
 <img src='take.gif' width=320 height=180> <img src='take.png' width=320 height=180>
 
-<img src='vsw.gif' width=480 height=360>
+
 
 
